@@ -1,0 +1,14 @@
+.pp-product, .piechart{
+    border-radius: 20px;
+    height: 310px;
+
+}
+.pp-product{
+    /* margin-left: 5rem; */
+}
+.piechart{
+    margin-left: 2.5rem;
+}
+.tran-chart{
+    border-radius: 20px;
+}

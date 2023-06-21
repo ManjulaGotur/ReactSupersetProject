@@ -1,0 +1,25 @@
+#dashboard{
+    justify-content:space-between auto;
+    align-items: center;
+    
+}
+#dashboard-box-1,#dashboard-box-2,#dashboard-box-3,#dashboard-box-4{
+    
+    width: 25rem;
+    border-radius:1rem;
+    padding: 1.5rem;
+    display: flex;
+    justify-content: center;
+} 
+#dashboard-box-1{
+    background-color:#c3e1d3;
+}
+#dashboard-box-2{
+    background-color:#f2ead1;
+}
+#dashboard-box-3{
+    background-color:#f2d5d8;
+}
+#dashboard-box-4{
+    background-color:#d5c8ed;
+}
